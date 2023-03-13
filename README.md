@@ -2,10 +2,7 @@
 
 ## Projeto - Loja de Games com Angular
 
-Site desenvolvido para para o Senai de São Paulo. 
-
-## Acesse o Projeto:
-(https://weybruno.github.io/projeto-do-senai-sp/)
+Site desenvolvido para para o Módulo de Integração com API - Senai de São Paulo. 
 
 ### Tecnologias
 
