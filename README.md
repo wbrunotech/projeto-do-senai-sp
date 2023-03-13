@@ -4,6 +4,9 @@
 
 Site desenvolvido para para o Senai de São Paulo. 
 
+## Acesse o Projeto:
+(https://weybruno.github.io/projeto-do-senai-sp/)
+
 ### Tecnologias
 
 * HTML
@@ -13,4 +16,4 @@ Site desenvolvido para para o Senai de São Paulo.
 * Typescript
 
 ### LinkedIn
-[https://www.linkedin.com/in/weydsonbruno/]
+(https://www.linkedin.com/in/weydsonbruno/)
