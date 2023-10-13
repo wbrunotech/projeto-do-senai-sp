@@ -1,4 +1,4 @@
-# SiteLHGames - Ecommerce
+# Site LHGames - Ecommerce
 
 ## Projeto - Loja de Games com Angular
 
